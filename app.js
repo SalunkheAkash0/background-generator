@@ -1,5 +1,5 @@
 //Book Constructor
-function Book(title,author,isbn)
+function Boo(title,author,isbn)
 {
   this.title = title;
   this.author = author;
